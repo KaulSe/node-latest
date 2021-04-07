@@ -1,2 +1,2 @@
 # node-latest
-node:latest with some helpers
+node:latest with jq and bc
